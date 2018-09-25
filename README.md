@@ -6,6 +6,22 @@
 
 This repository contains the source for a [NASA-TLX](https://en.wikipedia.org/wiki/NASA-TLX) version developed using [LaTeX](https://en.wikipedia.org/wiki/LaTeX). This repository is based on the information of [Hart and Staveland’s NASA Task Load Index (TLX)](https://humansystems.arc.nasa.gov/groups/TLX/downloads/TLXScale.pdf) sample. The  method assesses work load on five 7-point scales. Increments of high, medium and low estimates for each point result in 21 gradations on the scales. The general template can be found on the [`src/`](src/) directory, while the *samples* can be found at [`samples/`](samples/) directory. We used the [LaTeX](https://www.latex-project.org/) format, a typesetting system that includes features designed for the production of technical and scientific documentation. [LaTeX](https://www.latex-project.org/) is available as [free software](https://www.latex-project.org/lppl/).
 
+## Citing
+
+We kindly ask **scientific works and studies** that make use of this NASA-TLX Survey by citing it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the NASA-TLX Survey to warn us about this use. You can cite our work using the following BibTeX entry:
+
+```
+@contents{https://doi.org/10.13140/rg.2.2.26978.79044,
+  doi = {10.13140/rg.2.2.26978.79044},
+  url = {http://rgdoi.net/10.13140/RG.2.2.26978.79044},
+  author = {Calisto,  Francisco Maria and Nascimento,  Jacinto C.},
+  language = {en},
+  title = {NASA-TLX Survey},
+  publisher = {ResearchGate},
+  year = {2018}
+}
+```
+
 
 ## License
 
