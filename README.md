@@ -22,6 +22,18 @@ We kindly ask **scientific works and studies** that make use of this NASA-TLX Su
 }
 ```
 
+We also propose to cite our [Zenodo](https://zenodo.org) archive, while we are using the registered DOI to track mentions of the source code. You can cite this source code archive using the following BibTeX entry:
+
+```
+@misc{francisco_maria_calisto_2018_1435042,
+  author       = {Francisco Maria Calisto},
+  title        = {MIMBCD-UI/nasa-tlx: v1.0.0-alpha},
+  month        = sep,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1435042},
+  url          = {https://doi.org/10.5281/zenodo.1435042}
+}
+```
 
 ## License
 
